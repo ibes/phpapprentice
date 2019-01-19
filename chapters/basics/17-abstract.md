@@ -16,7 +16,7 @@ abstract class CellPhone
 ```
 
 To use an abstract class, you create another class that extends it and create any methods that were marked as abstract.
-A class can only extend one abstract class and the child class has to implement all abstract methods.
+A class can only extend on abstract class and the child class has to implement all abstract methods.
 ```php
 class iPhone extends CellPhone
 {
